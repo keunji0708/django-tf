@@ -307,6 +307,11 @@ class Service(Reader):
             reset=True,
         ).add_to(folium_map)
 
+        for i in police_pos.index:
+            folium.CircleMarker([police_pos['lat'][i], police_pos['lng'][i]],
+                                radius=police_pos['검거'][i] * 10,
+                                fill_color='#0a0a32').add_to(folium_map)
+
         folium_map.save('./saved_data/crime_map.html')
 
 
