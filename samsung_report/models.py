@@ -84,4 +84,3 @@ if __name__ == '__main__':
     instance = SamsungReport()
     instance.find_freq()
     instance.draw_wordcloud()
-

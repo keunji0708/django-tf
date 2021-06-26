@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e7edced-7d6e-43a8-a5f2-17a0326fa3bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/samsung_report/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/samsung_report/data/D2Coding.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/samsung_report/data/kr-Report_2018.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/samsung_report/data/stopwords.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/samsung_report/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/time_series/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/time_series/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samsung_report/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/samsung_report/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/time_series/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/time_series/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
