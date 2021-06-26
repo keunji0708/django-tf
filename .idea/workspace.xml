@@ -2,22 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e7edced-7d6e-43a8-a5f2-17a0326fa3bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tf_sample/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tf_sample/calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tf_sample/cat_mosaic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tf_sample/cat_mosaic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tf_sample/data/cat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tf_sample/data/face-detect.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tf_sample/data/family.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tf_sample/data/girl.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tf_sample/data/haarcascade_frontalface_alt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tf_sample/data/yoko.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tf_sample/face_detect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tf_sample/fashion_checker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tf_sample/hand_writing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tf_sample/saved_data/girl-face.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/election/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/election/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cctv_crime/modules.py" beforeDir="false" afterPath="$PROJECT_DIR$/cctv_crime/modules.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +47,7 @@
       <recent name="C:\Users\keunji\condaProject\django-tensorflow\cctv_crime\data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.face_detect">
+  <component name="RunManager" selected="Python.models">
     <configuration name="cat_mosaic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="django-tensorflow" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,7 +153,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="modules" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="models" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="django-tensorflow" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -173,11 +161,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cctv_crime" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/election" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cctv_crime/modules.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/election/models.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.models" />
         <item itemvalue="Python.face_detect" />
         <item itemvalue="Python.cat_mosaic" />
         <item itemvalue="Python.fashion_checker" />
         <item itemvalue="Python.hand_writing" />
-        <item itemvalue="Python.modules" />
       </list>
     </recent_temporary>
   </component>
